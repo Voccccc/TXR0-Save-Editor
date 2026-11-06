@@ -42,5 +42,3 @@ No saves, BIOS, game assets, or personal development notes are included.
 The game-data checksum and reference offsets were established by inspecting
 reference saves. This project is unofficial and is not affiliated with Genki,
 Sony, SD2PSX, or PCSX2.
-
-A project license has not yet been selected.
