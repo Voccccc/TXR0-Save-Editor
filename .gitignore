@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Personal memory cards and save backups
+*.mcd
+*.ps2
+*.mc2
+*.psu
+*.bak
