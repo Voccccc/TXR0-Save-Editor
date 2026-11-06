@@ -42,3 +42,13 @@ No saves, BIOS, game assets, or personal development notes are included.
 The game-data checksum and reference offsets were established by inspecting
 reference saves. This project is unofficial and is not affiliated with Genki,
 Sony, SD2PSX, or PCSX2.
+
+## License
+
+GNU General Public License version 3.0 (GPL-3.0-only). See [LICENSE](LICENSE).
+
+## Compatibility
+
+This release supports the reference 64 MiB card layout only. Cards with the
+save stored elsewhere are rejected even if they contain a valid TXR Zero save.
+General memory-card filesystem support is not implemented yet.
